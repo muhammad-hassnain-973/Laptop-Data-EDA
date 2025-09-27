@@ -34,6 +34,6 @@ The analysis includes:
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/laptop-price-eda.git
+   git clone https://github.com/muhammad-hassnain-973/Laptop-Data-EDA
    cd Laptop-Data-EDA
 
